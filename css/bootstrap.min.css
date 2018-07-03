@@ -20,6 +20,14 @@
     box-sizing: border-box;
 }
 
+.lead a {
+    color: #FFF;
+}
+
+.lead a:hover{
+   color:#c1c1c1 !important;
+}
+
 @media (max-width:768px){
     a.navbar-brand.hero-heading {
         max-width: 220px;
